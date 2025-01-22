@@ -1,4 +1,4 @@
-#Snake
+Snake
 
 This Is my First Real Game
 
